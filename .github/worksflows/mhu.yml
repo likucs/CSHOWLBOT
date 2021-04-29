@@ -19,7 +19,7 @@ jobs:
 
         with:
 
-          find: "ULTRAX"
+          find: "ULTRA"
 
           replace: "CSHOWLBOT"
 
